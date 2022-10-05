@@ -4,4 +4,4 @@ Hacer el diagrama de flujo y el programa en python, que lea números enteros y p
 
 ## Diagrama de flujo_
 
-![Diagrama de flujo](diagrama.png) "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png) "Diagrama de flujo")
